@@ -1,0 +1,14 @@
+{
+  "command": [
+    "node",
+    "app.mjs"
+  ],
+  "expected": {
+    "colors": [
+      "#000000",
+      "#bcbcbc",
+      "#ffffff"
+    ],
+    "count": 3
+  }
+}
